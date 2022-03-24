@@ -1,0 +1,2 @@
+
+Input file and mtsp.py must be in the same directory. After that, you can use my algorithm by writing filename with its extension. (I used Python3 therefore you can run by typing python3 mtsp.py)
